@@ -8,6 +8,6 @@ class Imagen():
         pass
 class Sonido():
     def reproducir(self):
-        pass
+        print (":)")
     def pausar (self):
         pass
