@@ -6,3 +6,8 @@ class Imagen():
         pass
     def binarzacion (self):
         pass
+class Sonido():
+    def reproducir(self):
+        pass
+    def pausar (self):
+        pass
